@@ -5,8 +5,7 @@ https://proxy-daily.com/
 https://openproxy.space/list/crSYdCSOH8
 https://openproxy.space/list/mXWAOeRpyQ
 https://openproxy.space/list/p3AtjGjpGc
-
-https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all
 
