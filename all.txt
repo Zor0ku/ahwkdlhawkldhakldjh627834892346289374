@@ -2,9 +2,9 @@ https://free-proxy-list.net/
 
 https://proxy-daily.com/
 
-https://openproxy.space/list/91oQ7YzfKy
-https://openproxy.space/list/bCZdegzWwF
-https://openproxy.space/list/h9K8LXyv3J
+https://openproxy.space/list/crSYdCSOH8
+https://openproxy.space/list/mXWAOeRpyQ
+https://openproxy.space/list/p3AtjGjpGc
 
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all
@@ -20,3 +20,4 @@ https://www.proxyscan.io/download?type=socks5
 http://proxydb.net/
 
 https://multiproxy.org/txt_all/proxy.txt
+
